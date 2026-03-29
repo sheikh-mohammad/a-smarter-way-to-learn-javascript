@@ -1,0 +1,25 @@
+PS D:\> npx create-docusaurus@latest a-smarter-way-to-learn-javascript classic
+√ Which language do you want to use? » JavaScript
+[INFO] Creating new Docusaurus project...
+[INFO] Installing dependencies with npm...
+[SUCCESS] Created a-smarter-way-to-learn-javascript.
+[INFO] Inside that directory, you can run several commands:
+
+  `npm start`
+    Starts the development server.
+
+  `npm run build`
+    Bundles your website into static files for production.
+
+  `npm run serve`
+    Serves the built website locally.
+
+  `npm run deploy`
+    Publishes the website to GitHub pages.
+
+We recommend that you begin by typing:
+
+  `cd a-smarter-way-to-learn-javascript`
+  `npm start`
+
+Happy building awesome websites!
