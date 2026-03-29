@@ -20,14 +20,14 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://sheikh-mohammad.github.io/a-smarter-way-to-learn-javascript/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/a-smarter-way-to-learn-javascript/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Sheikh Mohammad', // Usually your GitHub org/user name.
+  organizationName: 'Mark Mayers', // Usually your GitHub org/user name.
   projectName: 'a-smarter-way-to-learn-javascript', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://sheikh-mohammad/a-smarter-way-to-learn-javascript/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -78,7 +78,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Book',
           },
           {
             href: 'https://github.com/sheikh-mohammad/a-smarter-way-to-learn-javascript',
@@ -88,31 +88,35 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'Book',
         links: [
           {
-            title: 'Docs',
+            title: 'Book',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Book',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Social Media Handles',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Linked In',
+                href: 'https://www.linkedin.com/in/sheikh-mohammad-li',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://instagram.com/sheikh.mohammad.ig',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/sheikh.mohammad.fb',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/sheikhmohammadx/',
               },
             ],
           },
