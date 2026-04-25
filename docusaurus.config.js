@@ -15,9 +15,9 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
-  future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
-  },
+  // future: {
+  //   v4: true, // Improve compatibility with the upcoming Docusaurus v4
+  // },
 
   // Set the production url of your site here
   url: 'https://sheikh-mohammad.github.io',
@@ -76,7 +76,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'mySidebar',
             position: 'left',
             label: 'Book',
           },
@@ -88,14 +88,14 @@ const config = {
         ],
       },
       footer: {
-        style: 'Book',
+        style: 'light',
         links: [
           {
             title: 'Book',
             items: [
               {
                 label: 'Book',
-                to: '/docs/intro',
+                to: '/docs/',
               },
             ],
           },
