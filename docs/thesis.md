@@ -1,10 +1,9 @@
 ---
-sidebar_postion: 4
+title: "How I propose to cut your effort in half by using technology."
+sidebar_postion: -3
 ---
 
-# How I propose to
-# cut your effort in half
-# by using technology.
+# How I propose to <br /> cut your effort in half <br /> by using technology.
 
 When you set out to learn anything as complicated as JavaScript, you sign up for some
 heavy cognitive lifting. If I had to guess, I'd say the whole project of teaching yourself a

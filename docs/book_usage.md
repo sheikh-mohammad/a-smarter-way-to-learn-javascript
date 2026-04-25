@@ -1,5 +1,6 @@
 ---
-sidebar_postion: 5
+title: "How to Use This Book - A Smarter Way to Learn JavaScript"
+sidebar_postion: -4
 ---
 
 # How to Use This Book - A Smarter Way to Learn JavaScript

@@ -1,6 +1,12 @@
 ---
-sidebar_postion: 2
+title: "A Smarter Way to Learn JavaScript"
+sidebar_postion: -1
+hide_title: true
 ---
+
+<center>
+![hello](../assets/images/book_cover.png)
+</center>
 
 <center>
     <h1>A Smarter Way to Learn JavaScript</h1>
